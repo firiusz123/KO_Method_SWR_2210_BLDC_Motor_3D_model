@@ -16,16 +16,14 @@ This repository contains 3D visualizations and reference materials for a BLDC mo
 ### Version 13
 ![BLDC Motor v13](images/bldc_motor_v13.png)
 
-> 🧠 Each version includes slight adjustments in geometry, assembly fit, or visual polish. See the changelog or design notes for specific differences.
 
----
 
 ## 📸 Real Reference Photo
 
 ### KO Method SWR-2210 Motor
 ![KO Method SWR-2210](images/ko-method-swr-2210.jpg)
 
-This image is used as a visual reference for modeling. All 3D models in this repo are inspired by its physical structure.
+This image is used as a  reference for modeling. All 3D models in this repo are measured from physical model i had in hands with precision up to 0.02mm
 
 
 
